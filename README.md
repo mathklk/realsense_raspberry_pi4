@@ -8,11 +8,9 @@ This repository can be understood as a fork from his wiki entry.
 
 ## Hardware
 
-||
----
-|Raspberry Pi 4 Model B 8GB Rev 1.4 B|
-|64 GB SanDisk SD card|
-|Intel Realsense D435 |
+- Raspberry Pi 4 Model B 8GB Rev 1.4 B
+- 64 GB SanDisk SD card
+- Intel Realsense D435 
 
 ## Operating System
 
